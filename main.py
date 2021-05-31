@@ -1,4 +1,5 @@
-#Blackjack
+#Blackjack game
+
 import random
 
 deck = {
